@@ -1,5 +1,3 @@
-# Part I
-
 An Assignment for Intro to Computer System -- the mini-shell!
 
 # Part 1 - Signals
